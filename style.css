@@ -1,8 +1,8 @@
 #Competences{
   font-weight: bold;
 }
-#skills{
-
+#InfosSkills{
+color:#0D0F56;font-family: 'Montserrat';
 }
 #ancres{
   display: flex;
@@ -12,6 +12,7 @@
 }
 #ancre_competences{
   margin: 30px;
+  font-size: 1.4em;
 }
 #photo{
   vertical-align: top;
