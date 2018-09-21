@@ -1,0 +1,36 @@
+header,p,body{
+color:#0D0F56;font-family: 'Montserrat';
+}
+p{
+  font-size: 1.4em;
+  margin-top: -5px;
+}
+h1{
+
+}
+
+h2{
+  font-size: 0.8em;
+  margin-top: -8px;
+  margin-bottom: 100px;
+}
+article{
+  flex-direction: column;
+}
+
+html {
+  font-size:100%;
+}
+ main{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+
+ }
+#Competences{
+  font-weight: bold;
+}
+#skills{
+  margin-left: 50px;
+  margin-top: 30px;
+}
