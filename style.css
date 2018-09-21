@@ -13,10 +13,17 @@
 #ancre_competences{
   margin: 30px;
 }
+#photo{
+  vertical-align: top;
+}
 header,p,body{
 color:#0D0F56;font-family: 'Montserrat';
 }
-
+header{
+  background-color: #f4f6f6;
+  margin:-25px;
+  padding:83px;
+}
 h2{
   font-size: 0.8em;
 }
@@ -31,7 +38,4 @@ html {
    display: flex;
    flex-direction: row;
    justify-content: space-around;
-}
-p{
-  padding: 50px;
 }
